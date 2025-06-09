@@ -48,3 +48,19 @@ footer ul{
 a:hover{
     color:rgb(164, 156, 167);
 }
+
+.flag{
+    width:20%;
+    height:70px;
+}
+
+form{
+    background-color:#a2a7c2;
+    border-color: #424874;
+    border-style: solid;
+    border-radius: 25px;
+    width:80%;
+    align-self: center;
+    padding: 10px;
+    /* row-gap:20em; */
+}
